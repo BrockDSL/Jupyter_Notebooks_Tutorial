@@ -11,4 +11,4 @@ A tutorial on using Jupyter Notebooks
 
 
 [dsllogo]: dsl_logo.png
-[jupyterlogo]: Jupyter_logo.jpg
+[jupyterlogo]: jupyter_logo.jpg
