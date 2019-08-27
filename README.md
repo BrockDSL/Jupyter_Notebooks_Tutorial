@@ -8,7 +8,8 @@ Jupyter notebooks are incredibly powerful tools for both writing and sharing cod
 The purpose of this tutorial is to demonstrate each of the functions included in Jupyter and to give you a chance to give them a try.
 
 
-
+## Setup 
+1. Navigate to https://brocku.syzygy.ca
 
 
 
