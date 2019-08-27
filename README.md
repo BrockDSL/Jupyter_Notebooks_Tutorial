@@ -10,6 +10,8 @@ The purpose of this tutorial is to demonstrate each of the functions included in
 
 ## Setup 
 1. Navigate to https://brocku.syzygy.ca
+2. Click the red login house at the bottom of the screen and login using your brock login on the next page
+
 
 
 
