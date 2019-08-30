@@ -8,15 +8,24 @@ Jupyter notebooks are incredibly powerful tools for both writing and sharing cod
 The purpose of this tutorial is to demonstrate each of the functions included in Jupyter and to give you a chance to give them a try.
 
 
-## Setup 
+## Setup
+This tutorial will focus on using Jupyter online via the Syzygy platform.  Unfortunately at present Jupyter Notebooks online require a brock login (with e-mail) to access.  This does not mean that you can't access it locally on your own machine or using a guest login on a campus computer.  For more information on getting and using Jupyter Notebooks without a brock login feel free to stop by the Digital Scholarship Lab in the Rankin Family Pavilion, or e-mail us at DSL@Brocku.ca.
+
 1. Navigate to https://brocku.syzygy.ca
 2. Click the red login house at the bottom of the screen and login using your brock login on the next page
 
 
+## Navigating Jupyter - File Directory
+Welcome to Jupyter Notebooks!  When you first login you will be taken to your file directory.  This is the storage space for any and all files that you will interact with using your code.  To add new files to your directory click the "Upload" button on the right.  Once you have your files to work with, make a new notebook using the "New" drop down menu and picking the programming language that you want to work in.
 
+![Jupyter Start Page][jupyter1]
 
+Once you have created your new Notebook an .ipynb file will be created in your file directory and your new Notebook will automatically open for you in a new tab (or window depending on your settings).
 
+## Navigating Jupyter - The Notebook
 
+Your new notebook
 
 [dsllogo]: dsl_logo.png
 [jupyterlogo]: jupyter_logo.jpg
+[jupyter1]: Jupytermain.png
