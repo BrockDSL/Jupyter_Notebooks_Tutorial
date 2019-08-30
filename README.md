@@ -36,3 +36,4 @@ Code cells are where you type your code and run it.  By default new cells that y
 [dsllogo]: dsl_logo.png
 [jupyterlogo]: jupyter_logo.jpg
 [jupyter1]: Jupytermain.png
+[jupyter2]: notebooklayout.png
