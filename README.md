@@ -40,11 +40,23 @@ To change the name of your Notebook, click on the current name at the top of the
 
 ![Checkpoints and Status][jupyter3]
 
-### Downloading Your Notebook
+## Downloading Your Notebook
 
 Once you are happy with your notebook you can download it in a great deal of forms from Syzygy.  If you want to take what you are working on and work on it off campus on your own instance of jupyter (perhaps through an Anaconda launcher) then you can download the .ipynb file.  If you have come up with a great bit of Python code that you want to start using but don't want to copy each bit over individually you can save the notebook as a .py file that converts all of the markdown cells into comments in a Python script.  If you want a nice static view of your notebook for your website you can download a .html file.  There are a large number of ways to download your work so try them out and see what best suits your needs!
 
 ![Jupyter Notebook Download Options][jupyter4]
+
+## Next Steps
+
+Now that you know the basics of Using Jupyter Notebooks we encourage you to use them wherever you can!  Using a notebook is a great way to not only present coding in a more visually palatable way, but to also share your work with other researchers who can run your notebook from their own instance of Jupyter!
+
+If you want to get Jupyter for yourself at home we reccomend using [Anaconda Distribution](https://www.anaconda.com/distribution/) which comes with Jupyter already included along with many other useful tools and programs.
+
+For more information on Jupyter Notebooks check out [Jupyter's Website](https://jupyter.org), come visit us in the Rankin Family Pavilion at Brock University, or e-mail us at DSL@Brocku.ca.
+
+
+
+
 
 [dsllogo]: dsl_logo.png
 [jupyterlogo]: jupyter_logo.jpg
