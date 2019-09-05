@@ -30,10 +30,20 @@ Your new notebook is now ready to go!  Let's take a look at the different aspect
 
 Notebooks are made up of two main types of cells: Code and Markdown.  
 
-Code cells are where you type your code and run it.  By default new cells that you make using the "+" button will be code cells.  The programming language recognized by code cells is the language you chose when creting the new notebook. Once you have typed some code into a code cell you can run that code either by clicking the "Run" button at the top of the screen while that cell is selected or by pressing CTRL+ENTER on the keyboard.
+Code cells are where you type your code and run it.  By default new cells that you make using the "+" button will be code cells.  To change a cell to a different type, select the cell and use the dropdown menu to select the new cell type.  The programming language recognized by code cells is the language you chose when creting the new notebook. Once you have typed some code into a code cell you can run that code either by clicking the "Run" button at the top of the screen while that cell is selected or by pressing CTRL+ENTER on the keyboard.
+
+![Notebook Layout][jupyter2]
+
+### Saving, Naming, and Checkpoints
+
+To change the name of your Notebook, click on the current name at the top of the page ("Untitled" is the default name) and type in your new name.  Beside the name of your notebook you will see a status telling you when the last checkpoint was created as well as if there are unsaved changes.  Jupyter Notebooks will automatically save your work to your .ipynb file every two minutes or whenever the notebook is closed (there is no "do you want to save your changes?" dialog.  It just does it).  In addition to the autosave feature Jupyter allows you to manually save the current state of the notebook into what is called a checkpoint.  By clicking on the save button on the top menu your .ipynb file will be saved as normal but a second file in a hidden folder called .ipynb_checkpoints will also be created.  You can only ever have one checkpoint at a time for each notebook and making a new checkpoint overwrites the old one.  To revert to your checkpoint go to File->Revert To Checkpoit->Click on your checkpoint.
+
+![Checkpoints and Status][jupyter3]
+
 
 
 [dsllogo]: dsl_logo.png
 [jupyterlogo]: jupyter_logo.jpg
 [jupyter1]: Jupytermain.png
 [jupyter2]: notebooklayout.png
+[jupyter3]: Jupyterchecks.png
