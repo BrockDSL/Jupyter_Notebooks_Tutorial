@@ -54,7 +54,7 @@ Once you are happy with your notebook you can download it in a great deal of for
 
 Now that you know the basics of Using Jupyter Notebooks we encourage you to use them wherever you can!  Using a notebook is a great way to not only present coding in a more visually palatable way, but to also share your work with other researchers who can run your notebook from their own instance of Jupyter!
 
-If you want to get Jupyter for yourself at home we reccomend using [Anaconda Distribution](https://www.anaconda.com/distribution/) which comes with Jupyter already included along with many other useful tools and programs.
+If you want to get Jupyter for yourself at home we recommend using [Anaconda Distribution](https://www.anaconda.com/distribution/) which comes with Jupyter already included along with many other useful tools and programs.
 
 For more information on Jupyter Notebooks check out [Jupyter's Website](https://jupyter.org), come visit us in the Rankin Family Pavilion at Brock University, or e-mail us at DSL@Brocku.ca.
 
