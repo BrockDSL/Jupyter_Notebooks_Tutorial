@@ -11,7 +11,7 @@ The purpose of this tutorial is to demonstrate each of the functions included in
 ## Setup
 This tutorial will focus on using Jupyter online via the Syzygy platform.  Unfortunately at present Jupyter Notebooks online require a brock login (with e-mail) to access.  This does not mean that you can't access it locally on your own machine or using a guest login on a campus computer.  For more information on getting and using Jupyter Notebooks without a brock login feel free to stop by the Digital Scholarship Lab in the Rankin Family Pavilion, or e-mail us at DSL@Brocku.ca.
 
-1. Navigate to https://brocku.syzygy.ca
+1. Navigate to [brocku.syzygy.ca](https://brocku.syzygy.ca)
 2. Click the red login house at the bottom of the screen and login using your brock login on the next page
 
 
