@@ -30,7 +30,7 @@ Your new notebook is now ready to go!  Let's take a look at the different aspect
 
 Notebooks are made up of two main types of cells: Code and Markdown.  
 
-Code cells are where you type your code and run it.  By default new cells that you make using the "+" button will be code cells.  Once you have typed some code into a code cell you can run that code either by clicking the "Run" button at the top of the screen while that cell is selected or by pressing CTRL+ENTER on the keyboard
+Code cells are where you type your code and run it.  By default new cells that you make using the "+" button will be code cells.  The programming language recognized by code cells is the language you chose when creting the new notebook. Once you have typed some code into a code cell you can run that code either by clicking the "Run" button at the top of the screen while that cell is selected or by pressing CTRL+ENTER on the keyboard.
 
 
 [dsllogo]: dsl_logo.png
