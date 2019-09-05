@@ -34,6 +34,10 @@ Code cells are where you type your code and run it.  By default new cells that y
 
 ![Notebook Layout][jupyter2]
 
+You can move a cell up or down the page by selecting the one you would like to move and then using the up and down arrows on the top menu to move it.
+
+![Up and Down arrows][jupyter5]
+
 ### Saving, Naming, and Checkpoints
 
 To change the name of your Notebook, click on the current name at the top of the page ("Untitled" is the default name) and type in your new name.  Beside the name of your notebook you will see a status telling you when the last checkpoint was created as well as if there are unsaved changes.  Jupyter Notebooks will automatically save your work to your .ipynb file every two minutes or whenever the notebook is closed (there is no "do you want to save your changes?" dialog.  It just does it).  In addition to the autosave feature Jupyter allows you to manually save the current state of the notebook into what is called a checkpoint.  By clicking on the save button on the top menu your .ipynb file will be saved as normal but a second file in a hidden folder called .ipynb_checkpoints will also be created.  You can only ever have one checkpoint at a time for each notebook and making a new checkpoint overwrites the old one.  To revert to your checkpoint go to File->Revert To Checkpoit->Click on your checkpoint.
@@ -64,3 +68,4 @@ For more information on Jupyter Notebooks check out [Jupyter's Website](https://
 [jupyter2]: notebooklayout.png
 [jupyter3]: Jupyterchecks.png
 [jupyter4]: Jupyterdownload.png
+[jupyter5]: Jupyterarrows.png
