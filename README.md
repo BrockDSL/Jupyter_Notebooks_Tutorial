@@ -59,7 +59,7 @@ Another interesting tool available when using Jupyter through a Syzygy interface
 
 An example of this can be seen by clicking [this link](https://brocku.syzygy.ca/jupyter/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBrockDSL%2FAzure-Vision-Tutorial&urlpath=tree%2FAzure-Vision-Tutorial%2FAzureVisionNotebook.ipynb).  
 
-### Downloading Your Notebook
+### Downloading Your Notebook 
 
 Once you are happy with your notebook you can download it in a great deal of forms from Syzygy.  If you want to take what you are working on and work on it off campus on your own instance of Jupyter (perhaps through an Anaconda launcher) then you can download the .ipynb file.  If you have come up with a great bit of Python code that you want to start using but don't want to copy each bit over individually you can save the notebook as a .py file that converts all of the markdown cells into comments in a Python script.  If you want a nice static view of your notebook for your website you can download a .html file.  There are a large number of ways to download your work so try them out and see what best suits your needs!
 
