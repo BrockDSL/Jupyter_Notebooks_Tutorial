@@ -57,7 +57,7 @@ To change the name of your Notebook, click on the current name at the top of the
 
 Another interesting tool available when using Jupyter through a Syzygy interface is NBGitPuller.  This tool allows you to create a link that not only takes you to Syzygy but it also navigates to a GitHub repository, clones that repository into Jupyter, and opens a selected notebook in your Syzygy instance!
 
-An example of this can be seen by clicking this link.  Here we are 
+An example of this can be seen by clicking [this link](https://brocku.syzygy.ca/jupyter/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBrockDSL%2FAzure-Vision-Tutorial&urlpath=tree%2FAzure-Vision-Tutorial%2FAzureVisionNotebook.ipynb).  
 
 ### Downloading Your Notebook
 
