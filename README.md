@@ -53,7 +53,13 @@ To change the name of your Notebook, click on the current name at the top of the
 
 ![Checkpoints and Status][jupyter3]
 
-## Downloading Your Notebook
+### NBGitPuller
+
+Another interesting tool available when using Jupyter through a Syzygy interface is NBGitPuller.  This tool allows you to create a link that not only takes you to Syzygy but it also navigates to a GitHub repository, clones that repository into Jupyter, and opens a selected notebook in your Syzygy instance!
+
+An example of this can be seen by clicking this link.  Here we are 
+
+### Downloading Your Notebook
 
 Once you are happy with your notebook you can download it in a great deal of forms from Syzygy.  If you want to take what you are working on and work on it off campus on your own instance of Jupyter (perhaps through an Anaconda launcher) then you can download the .ipynb file.  If you have come up with a great bit of Python code that you want to start using but don't want to copy each bit over individually you can save the notebook as a .py file that converts all of the markdown cells into comments in a Python script.  If you want a nice static view of your notebook for your website you can download a .html file.  There are a large number of ways to download your work so try them out and see what best suits your needs!
 
