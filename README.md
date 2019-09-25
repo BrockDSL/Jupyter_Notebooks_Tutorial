@@ -85,6 +85,6 @@ For more information on Jupyter Notebooks check out [Jupyter's Website](https://
 [jupyter4]: Jupyterdownload.png
 [jupyter5]: Jupyterarrows.png
 [jupyter6]: jupytermarkdown.png
-[jupyter7]: NEW IMAGE NEEDED - CODE CELLS
+[jupyter7]: jupytercode.png
 [jupyter8]: NEW IMAGE NEEDED - GRAPH CELL
 [jupyter9]: NEW IMAGE NEEDED - MAP CELL
