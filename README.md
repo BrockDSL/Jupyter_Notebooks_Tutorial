@@ -34,6 +34,10 @@ Code cells are where you type your code and run it.  By default new cells that y
 
 ![Notebook Layout][jupyter2]
 
+Markdown cells are used to store text formatted using Markdown syntax.  A cheat sheet for Markdown can be found [here](https://www.markdownguide.org/cheat-sheet/).  Most often these are used to introduce and describe the code that is being used and to make titles.
+
+![Markdown Cells][jupyter6]
+
 You can move a cell up or down the page by selecting the one you would like to move and then using the up and down arrows on the top menu to move it.
 
 ![Up and Down arrows][jupyter5]
@@ -69,3 +73,5 @@ For more information on Jupyter Notebooks check out [Jupyter's Website](https://
 [jupyter3]: Jupyterchecks.png
 [jupyter4]: Jupyterdownload.png
 [jupyter5]: Jupyterarrows.png
+[jupyter6]: NEW IMAGE NEEDED - MARKDOWN CELLS
+[jupyter7]: NEW IMAGE NEEDED - CODE CELLS
