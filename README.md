@@ -32,7 +32,12 @@ Notebooks are made up of two main types of cells: Code and Markdown.
 
 Code cells are where you type your code and run it.  By default new cells that you make using the "+" button will be code cells.  To change a cell to a different type, select the cell and use the dropdown menu to select the new cell type.  The programming language recognized by code cells is the language you chose when creating the new notebook. Once you have typed some code into a code cell you can run that code either by clicking the "Run" button at the top of the screen while that cell is selected or by pressing CTRL+ENTER on the keyboard.
 
-![Notebook Layout][jupyter2]
+![Code Cells][jupyter7]
+
+Some code run in cells can produce visual results such as graphs and maps.  Cells in Jupyter support visualization like this as well!
+
+![Graph Cell][jupyter8]
+![Map Cell][jupyter9]
 
 Markdown cells are used to store text formatted using Markdown syntax.  A cheat sheet for Markdown can be found [here](https://www.markdownguide.org/cheat-sheet/).  Most often these are used to introduce and describe the code that is being used and to make titles.
 
@@ -75,3 +80,5 @@ For more information on Jupyter Notebooks check out [Jupyter's Website](https://
 [jupyter5]: Jupyterarrows.png
 [jupyter6]: NEW IMAGE NEEDED - MARKDOWN CELLS
 [jupyter7]: NEW IMAGE NEEDED - CODE CELLS
+[jupyter8]: NEW IMAGE NEEDED - GRAPH CELL
+[jupyter9]: NEW IMAGE NEEDED - MAP CELL
