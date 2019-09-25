@@ -34,10 +34,9 @@ Code cells are where you type your code and run it.  By default new cells that y
 
 ![Code Cells][jupyter7]
 
-Some code run in cells can produce visual results such as graphs and maps.  Cells in Jupyter support visualization like this as well!
+Some code run in cells can even produce visualizations such as graphs.
 
 ![Graph Cell][jupyter8]
-![Map Cell][jupyter9]
 
 Markdown cells are used to store text formatted using Markdown syntax.  A cheat sheet for Markdown can be found [here](https://www.markdownguide.org/cheat-sheet/).  Most often these are used to introduce and describe the code that is being used and to make titles.
 
@@ -86,5 +85,4 @@ For more information on Jupyter Notebooks check out [Jupyter's Website](https://
 [jupyter5]: Jupyterarrows.png
 [jupyter6]: jupytermarkdown.png
 [jupyter7]: jupytercode.png
-[jupyter8]: NEW IMAGE NEEDED - GRAPH CELL
-[jupyter9]: NEW IMAGE NEEDED - MAP CELL
+[jupyter8]: jupytergraph.png
